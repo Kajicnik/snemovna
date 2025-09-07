@@ -1,0 +1,17 @@
+File: s132058.htm
+Anchor: r1
+Date: 32. schůze, 13. března 2025
+Speaker: Poslanec Robert Králíček
+
+Speech:
+Poslanec Robert Králíček:: Vážený pane předsedající, pane ministře, kolegyně, kolegové, nejprve vystoupím se zpravodajskou zprávou, kde se pokusím být objektivní tak, jak zpravodaj má.
+Návrh zákona upravuje několik klíčových zákonů ve vztahu k působnosti Digitální a informační agentury, která hraje zásadní roli v zajištění bezpečné a efektivní správy informačních systémů veřejné správy. Klíčovým cílem tohoto návrhu je zvýšení bezpečnosti a transparentnosti v oblasti elektronických veřejných služeb, zlepšení interoperability informačních systémů na národní i evropské úrovni, umožnění širšího využívání digitální identifikace a prevence podvodů.
+Hlavní změny v legislativě:
+Za prvé, zákon o zřízení ministerstev a jiných ústředních orgánů státní správy. Jsou tu nové pravomoci Ministerstva vnitra: monitorování a dohled nad bezpečností informačních systémů veřejné správy mimo ty, které spravuje Ministerstvo obrany, vytvoření rámcových pravidel pro zabezpečení a interoperabilitu systémů. Role DIA: dohled nad identifikačními službami, správa digitálních nástrojů a podpora digitalizace na státní úrovni.
+Za druhé, zákon o bankách, sdílení údajů z DIA. Banky budou povinny spolupracovat s DIA při identifikaci klientů za účelem prevence podvodů, zpřístupnění údajů. DIA získá přístup k bankovním údajům v rozsahu potřebném pro zajištění elektronické identifikace a ověření identity.
+Za třetí, zákon o svobodném přístupu k informacím. Umožňuje přenesené působnosti Ministerstva vnitra na DIA nebo jiné státem zřízené právnické osoby v oblasti přístupu k informacím.
+Za čtvrté, zákon o informačních systémech veřejné správy, správa systému DIA. DIA bude zodpovídat za správu klíčových informačních systémů a jejich propojení na evropské digitální služby, zavedení strategického řízení, dlouhodobý plán řízení informačních systémů zaměřený na jejich efektivní využití a bezpečnost.
+Za páté, zákon o elektronických úkonech a autorizované konverzi dokumentů. Automatické zřizování datových schránek: Datové schránky budou zřizovány automaticky při zápisu subjektů do příslušných registrů, například při založení firmy. Doručování dokumentů: zjednodušení doručování elektronických dokumentů prostřednictvím datových schránek.
+Za šesté, zákon o elektronické identifikaci. Rozšíření z působnosti DIA, kde DIA získává pravomoc kontrolovat poskytovatele identifikačních služeb a spravovat akreditace, zvýšení bezpečnosti identifikačních prostředků, což znamená zavedení opatření proti zneužití identifikačních nástrojů, například eObčanek.
+Za sedmé, ostatní legislativní úpravy. Úpravy v evidenci obyvatel: rozšíření pravidel správy údajů v registru obyvatel a dalších evidencích. Evidence cizinců: zlepšení propojení informačních systémů v oblasti evidence cizinců, aby byla zajištěna přesnější data a jejich efektivní využití. Děkuji za pozornost.
+

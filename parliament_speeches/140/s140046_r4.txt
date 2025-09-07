@@ -1,0 +1,8 @@
+File: s140046.htm
+Anchor: r4
+Date: 40. schůze, 29. května 2025
+Speaker: Poslanec Jiří Havránek
+
+Speech:
+Poslanec Jiří Havránek: Děkuju za slovo. Věřím, že dnes už opravdu naposledy, nicméně (Reakce z pléna.) znovu jsem přišel s načtením pozměňovacího návrhu, který naleznete pod číslem 6830. Týká se konkrétně datových schránek, protože já jsem opravdu hrdým uživatelem datových schránek. Považuji je za něco, co je jeden z největších digitalizačních počinů, které se České republice povedly, daří se je rozvíjet a opravdu byly inspirací například i pro dánský ePost (?), který... Určitě se shodneme na tom, že dnes Dánsko je opravdu jednou z nejšpičkovějších zemí v oblasti eGovernmentu.
+Nicméně co mě u datových schránek vždycky štvalo - věřím, že i mnohé z vás, stejně jako i další uživatele datových schránek, což vychází i z dlouhodobých šetření - je vlastně to, že po 90 dnech, pokud nemáte zaplacený trezor, se jednotlivé zprávy mažou. Z tohoto důvodu předkládám tedy tento zmíněný pozměňovací návrh, jehož účelem je zajistit, aby se dodané a odeslané datové zprávy v datové schránce nemazaly automaticky již po 90 dnech, ale po výrazně delší době. ***

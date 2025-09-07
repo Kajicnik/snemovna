@@ -1,0 +1,10 @@
+File: s131121.htm
+Anchor: r8
+Date: 31. schůze, 4. března 2025
+Speaker: Ministr dopravy ČR Martin Kupka
+
+Speech:
+Ministr dopravy ČR Martin Kupka: Vážená paní předsedající, vážená paní kolegyně, mám za to, že muselo dojít k nějaké mýlce v tom směru, že by jak ta současná souprava bateriová, která operuje v Moravskoslezském kraji, byla napájená stejnosměrným proudem. Není tomu tak. Funguje právě na stejnosměrný proud o třech kilovoltech a je tedy tím pádem možné nepochybně i v případě jiných krajů, které jsou závislé na stejnosměrném proudu v 3kilovoltové trakci, používat tato bateriová vozidla a kupovat je. Stejně tak platí, že i trolejbusy v Ostravě, i ve většině jiných případů jsou napájeny stejnosměrným proudem.
+Je pravda, že máme v plánu postupně převádět naši trakci na železnici ze stejnosměrného proudu 3 kilovolty na střídavý proud 25 kilovoltů. Výhoda spočívá samozřejmě v menších ztrátách. A jak jste zmínila, je to opravdu modernější a sdílenější trakční systém. Důležité ale je, že to nijak neomezuje v tuhle chvíli možnost využití bateriových vozidel, pokud na části českého území máme stejnosměrný proud a na části střídavý.
+Co se týče levobřežky neboli zavedení ETCS mezi Kralupy nad Vltavou a Dolním Žlebem, tam platí, že v tuhle chvíli soutěžíme dodavatele ETCS a počítáme s tím, že v rámci té rozsáhlé investiční akce bude vše připraveno na konverzi - na konverzi na střídavý proud, který by ale měl sloužit dopravě až někdy po roce 2030. Nicméně ta investice s tou konverzí bude počítat a nebude to znamenat, že bychom v tomhle případě vstupovali do všech jednotlivých částí té trati a obnovovali tam nebo vyměňovali tam zařízení pro stejnosměrný proud.
+

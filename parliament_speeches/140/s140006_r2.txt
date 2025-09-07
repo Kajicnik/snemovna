@@ -1,0 +1,10 @@
+File: s140006.htm
+Anchor: r2
+Date: 40. schůze, 29. května 2025
+Speaker: Poslanec Ivan Bartoš
+
+Speech:
+Poslanec Ivan Bartoš:: Děkuju za to ujištění. Vlastně všechny otázky, které jsem tady položil, byly zodpovězeny. Věřím, že se tady objeví i pan ministr financí.
+Kdyby to nebylo tady o tom bodu, já bych se chtěl zeptat Mariana Jurečky, pana ministra, co jsem tady říkal, že bylo za hranou nebo nebyla pravda. Jenom bych mu chtěl připomenout, že jsem v roce 2023, v momentě, kdy jakási firma zasekla digitalizaci stavebního řízení na antimonopolním úřadu, který si dal překvapivě a ne úplně v souladu s tím, jak má postupovat, načas, přišel na vládu a ten tisk prošel mezirezortním řízením. Tady do mě sypala paní Dostálová, byla o tom celodenní jednání tady ve Sněmovně, kde jsem žádal jednotlivé rezorty a ministry, aby poskytli součinnost jako jednu z variant k dodání systému pro úředníky. Byl to Cendis pana ministra Kupky, byla to státní tiskárna, která je pod panem ministrem Stanjurou, byl to NAKIT, který je pod ministrem vnitra. Ten tisk určoval další varianty vývoje, kde se hovořilo o časovém stresu právě kvůli tomu, že celou zakázku zastávala nastrčená firma, která mimo jiné dodává tady panu Blažkovi tiskárny na Ministerstvo spravedlnosti. Vláda mi k tomu dala zamítavé stanovisko už v tom mezirezortu. Zejména Úřad vlády, kde tedy vyšívá jeden vysoce postavený člen ODS jako poradce pana premiéra - v té době byl - a potom se vláda odmítla tímto zabývat.
+My jsme zvolili systém JŘBU, paní Štajgrová s týmem, který to zadával, a šli jsme tedy k dodání minimální funkcionality. Tak až si budeme říkat, kdo mi kladl otázky a kdo mi kdy pomohl, můžu tenhle dokument vytáhnout. Já jsem se chtěl zeptat, co tedy není pravda? Že u vás je firma Tekies, jejíž majitel je šéf jedné části IT pod panem Trpkošem? Že jste antedatoval smlouvu k 1. 4. na legislativní bypass a do novin jste řekli, že k tomu byly objektivní důvody, potom, co to vyšťourali novináři? Tam už je 15 milionů za API utraceno, a to si myslím, že by stálo za to vysvětlit. (Předsedající: Čas.)
+

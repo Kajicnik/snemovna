@@ -1,0 +1,14 @@
+File: s132057.htm
+Anchor: r8
+Date: 32. schůze, 13. března 2025
+Speaker: Ministr pro vědu, výzkum a inovace ČR Marek Ženíšek
+
+Speech:
+Ministr pro vědu, výzkum a inovace ČR Marek Ženíšek:: Děkuji za slovo, pane předsedající. Já si dovolím v zastoupení kolegy ministra Jurečky uvést návrh zákona, kterým se mění některé zákony v souvislosti s úpravou vybraných agend v působnosti Digitální a informační agentury. Je to novela, která neupravuje jen jednu dílčí otázku, ale obsahuje řadu dlouho očekávaných změn, které pomohou digitalizaci státní správy a rozvoji eGovernmentu, a pokusím se shrnout jen ty nejdůležitější.
+Zákonem o informačních systémech veřejné správy je do právního řádu České republiky implementováno takzvané nařízení o interoperabilní Evropě, která upravuje přeshraniční komunikaci a spolupráci digitálních veřejných služeb. Zákon dále usnadňuje dohled Digitální a informační agentury v oblasti identitních služeb. Novela zákona o poštovních službách zase zajistí, že držitelé poštovní licence budou moci využívat údaje ze základních registrů za účelem boje proti legalizaci výnosů z trestné činnosti.
+Pro Ministerstvo vnitra je nově založeno oprávnění delegovat působnost v oblasti provozu Centrálního registru výročních zpráv na jiný státní orgán nebo na státem zřízenou anebo založenou právnickou osobu. Dále pak v zákoně o elektronické identifikaci bude nově umožněno odejmout poskytovateli kvalifikovaného systému akreditaci bez předchozí výzvy ke zjednání nápravy v případě, kdy to bude bezpředmětné, například daná osoba je odsouzena za trestný čin nebo je vyhodnocena jako bezpečnostní riziko na základě informací bezpečnostních složek.
+Zjednoduší se také i některé procesy spojené s poskytováním cloudových služeb ve veřejné správě, protože stávající úprava se ukázala jako příliš těžkopádná. Mění se také i právní úprava datových schránek, jejíž podstatou je zejména reakce na nedávnou judikaturu a poznatky z praxe. Novela dále obsahuje i novinku v oblasti doručování písemností od veřejných orgánů, kdy do budoucna bude možné nechat si na žádost takové písemnosti doručit přímo do informačního systému, prostřednictvím kterého bylo učiněno samotné podání.
+Do kompetenčního zákona se zakotvuje vládní kyberbezpečnostní dohledové centrum k ochraně klíčových komunikačních a informačních systémů státní správy, které budou rychle reagovat na kybernetické útoky.
+Novela se dotýká i zákona o právu na digitální služby. Například právo na osvědčení digitálního úkonu bude upraveno tak, aby mohlo být efektivně a jednoduše realizováno. Dále pak dochází ke změně požadavků na nahrazení úředně ověřeného podpisu nebo uznávání elektronického podpisu.
+Vzhledem k tomu, že se jedná víceméně o technickou novelu bez nějakých hlubších věcných změn, navrhuji zkrácení lhůty pro projednání ve výborech na 30 dnů. Tím se umožní, aby druhé čtení proběhlo už na schůzi v dubnu, respektive na dubnové schůzi. Děkuji za pozornost.
+

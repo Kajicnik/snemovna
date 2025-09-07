@@ -1,0 +1,10 @@
+File: s131123.htm
+Anchor: r8
+Date: 31. schůze, 4. března 2025
+Speaker: Poslanec Vladimír Zlínský
+
+Speech:
+Poslanec Vladimír Zlínský: Vážená paní předsedající, děkuji za slovo. Vážené dámy a pánové, vážený nepřítomný pane ministře, ohledně zajištění povinnosti zdravotnických zařízení zaznamenávat emergentní údaje z pohledu zákona o elektronizaci zdravotnictví jste mi odpověděl písemně na moji ústní interpelaci v tom smyslu, že to bude probíhat prostřednictvím informačních systémů poskytovatelů zdravotnických služeb a odpovědný bude zadávající lékař.
+Na základě této odpovědi se ptám, zda jsou tyto informační systémy připraveny na to, aby požadované informace byly zasílány do systému sdílených zdravotnických záznamů tak, aby zadávající lékař po jejich zapsání do svého informačního systému pouze odeslal požadované informace nově zjištěné, anebo případně aby ani žádné nemusel zadávat, jelikož se již do systému elektrizovaného zdravotnictví zadávají prostřednictvím eReceptu.
+Mnohem závažnější je situace s již zjištěnými informacemi. Mám na mysli alergie, nežádoucí účinky léčivých přípravků a nežádoucí reakce související s odběrem krve, její složky nebo transfuzí, které nejsou do současných informačních systémů zadány ve formě strukturovaného textu a budou muset být aktivně vyhledávány zadávajícím lékařem. Zajímalo by mne, jestli lékař, který byl podepsán pod tento minulý záznam, který popisuje výše zmíněné nežádoucí účinky, bude muset retroaktivně zapisovat tyto informace do informačního systému napojeného na systém sdílených zdravotnických záznamů, aby vyloučil možnost svého finančního postihu. Děkuji vám za odpověď.
+

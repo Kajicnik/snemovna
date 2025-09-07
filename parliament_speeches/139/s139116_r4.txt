@@ -1,0 +1,12 @@
+File: s139116.htm
+Anchor: r4
+Date: 39. schůze, 27. května 2025
+Speaker: Místopředseda vlády a ministr vnitra ČR Vít Rakušan
+
+Speech:
+Místopředseda vlády a ministr vnitra ČR Vít Rakušan: Děkuju, paní předsedkyně, do třetice. V tomto případě se jedná o zákon o odolnosti subjektů kritické infrastruktury a o změně souvisejících zákonů, zkráceně zákon o kritické infrastruktuře.
+Důvodem předložení návrhu je potřeba transpozice směrnice Evropského parlamentu a Rady o odolnosti kritických subjektů, takzvané směrnice CER. Tato směrnice si klade za cíl posílit odolnost kritických subjektů v zemích EU a zefektivnit nástroje zajišťující nerušené poskytování takzvaných základních služeb, které jsou zásadní pro chod státu jako celku. Posiluje se také kooperace při naplnění těchto cílů na mezinárodní evropské úrovni. Návrh zákona tak zavádí nový systém určování subjektů kritické infrastruktury. Stěžejní je stanovení základních služeb. Určování subjektů se bude dít rozhodnutím Ministerstva vnitra České republiky ve správním řízení na základě podkladů jednotlivých rezortů, tedy gestorů daných základních služeb. Stanovuje se jasná gesce, postupy, povinnosti i sankce. Posiluje se digitalizace systému krizového řízení, ochrany kritické infrastruktury skrze informační systém krizového řízení a Portál kritické infrastruktury.
+Tímto by mělo být mimo jiné zajištěno také intenzivnější sdílení informací mezi státní správou a soukromým sektorem. Zavádí systém ověřování spolehlivosti pracovníků subjektů kritické infrastruktury, posiluje ochranu informací důležitých pro řešení krizových stavů a ochranu kritické infrastruktury, subjektů kritické infrastruktury a informací vztahujících se k základním službám.
+Směrnice CER měla být zapracována do českého právního řádu ve velice krátké transpoziční lhůtě, ta činila 21 měsíců od nabytí platnosti této směrnice. Ta uplynula už koncem roku 2024. Odklad přijetí zákona by tak mohl způsobit, že by transpozice nebyla realizována vůbec a hrozila by tady samozřejmě České republice finanční sankce. Zároveň je žádoucí, aby nová česká právní úprava týkající se ochrany a odolnosti kritické infrastruktury byla přijata co nejdříve a Česká republika by se tak mohla plně zapojit do evropského systému odolnosti kritické infrastruktury.
+Pokud by ten zákon nebyl přijat, snížila by se schopnost státu reflektovat bezpečnostní hrozby v oblasti kritické infrastruktury, narušilo by se rovněž společné plnění závazků v oblasti bezpečnosti a krizového řízení. Děkuji proto za pozornost a případné schválení návrhu v prvním čtení.
+
